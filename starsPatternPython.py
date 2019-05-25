@@ -12,4 +12,4 @@ def xprint(size):
             print inisial_spasi + '*' + tengah_spasi + '*' + final_spasi    
         i += 1
         j -= 1
-xprint(4)
+xprint(5)
